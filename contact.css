@@ -1,15 +1,15 @@
 .navlink{
-    color: rgb(139, 139, 139);
+    color:rgb(139, 139, 139);
     text-decoration: none;
     margin-right: 65px;
   }
   .navlinkactive{
-    color: black;
+    color:red;
     text-decoration: none;
     margin-right: 65px;
   }
   .navlink:hover{
-    color: rgb(185, 162, 162);
+    color: orange;
   }
   .navlinkactive:hover{
     color: rgb(185, 162, 162);;
@@ -22,14 +22,11 @@ margin-right: 15px;
 }
 
 footer {
-background-color: rgb(223, 217, 217);
+background-color: bisque;
 width: 100%;
-/* margin-top: 50px; */
-
 }
 
-footer div a,
-footer p {
+footer div a, footer p {
 color: gray;
 text-decoration: none;
 }

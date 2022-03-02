@@ -10,7 +10,7 @@ h3 h2 {
 }
 
 .navlinkactive {
-    color: black;
+    color: red;
     text-decoration: none;
     margin-right: 65px;
 }
@@ -26,8 +26,6 @@ h3 h2 {
 footer {
 background-color: rgb(223, 217, 217);
 width: 100%;
-/* margin-top: 50px; */
-
 }
 
 footer div a,
